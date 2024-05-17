@@ -1,15 +1,15 @@
-# Hi there, I'm Paula Montano! 👋
+# Hi there, welcome to my GitHub page! 👋
 
 ![Banner Image](your_banner_image_url_here)
 
 ## About Me 🚀
 
-I'm a passionate **[PhD researcher]** with experience in **[political communication and quantitative methods for text analysis]**. I love learning new skills and collaborating with diverse teams.
+I'm a third-year **PhD researcher** at University College Dublin with experience in **political communication and quantitative methods for text analysis**.
 
-- 🌱 Currently learning: **Ideal point estimation and scaling methods for political behaviour**
-- 🔭 Working on: **Grandstanding in the Council of the European Union**
-- 🌍 Languages: **R, Python and Spanish (native), English, French**
-- 📫 How to reach me: **paula.montano1@gmail.com**
+🌱 Currently learning: **Ideal point estimation and scaling methods for political behaviour**
+🔭 Working on: **Grandstanding in the Council of the European Union**
+🌍 Languages: **R, Python and Spanish (native), English, French**
+📫 How to reach me: **paula.montano1@gmail.com**
 
 ## My Skills 🧠
 
