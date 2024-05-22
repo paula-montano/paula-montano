@@ -1,9 +1,5 @@
 # Hi there, welcome to my GitHub page! 👋
 
-![Banner Image](your_banner_image_url_here)
-
-## About Me 🚀
-
 I'm a third-year **PhD researcher** at University College Dublin with experience in **political communication and quantitative methods for text analysis**.
 
 🌱 Currently learning: **Ideal point estimation and scaling methods for political behaviour**
