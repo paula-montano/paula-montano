@@ -5,7 +5,7 @@ I'm a third-year **PhD researcher** in the School of Politics and International 
 🔭 My work on **political communication and quantitative methods for text analysis**.
 
 ## My Skills 🧠
-![image]({BadgeURLHere})
+<img src="{https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white}" />
 ![image]({https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white})
 ![https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue]()
 
